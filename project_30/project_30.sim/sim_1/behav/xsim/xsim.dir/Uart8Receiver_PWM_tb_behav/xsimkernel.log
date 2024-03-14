@@ -1,0 +1,4 @@
+Running: xsim.dir/Uart8Receiver_PWM_tb_behav/xsimk.exe -simmode gui -wdb Uart8Receiver_PWM_tb_behav.wdb -simrunnum 0 -socket 57968
+Design successfully loaded
+Design Loading Memory Usage: 8600 KB (Peak: 8600 KB)
+Design Loading CPU Usage: 15 ms
